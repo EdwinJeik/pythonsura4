@@ -1,2 +1,4 @@
-# pythonsura4
-condicionales y ciclos python
+# CICLOS Y CONDICIONES CON PYTHON
+
+## Programado por: Edwin Jeik
+
